@@ -4,4 +4,5 @@ Repository for testing purposes based on the following course:
 https://www.udemy.com/course/git-completo-do-basico-ao-avancado/
 
 Participants:
+- Alex S. S. Alcolea
 - Bruno Antunes da Silva
