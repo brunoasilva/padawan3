@@ -3,7 +3,9 @@
 Repository for testing purposes based on the following course:
 https://www.udemy.com/course/git-completo-do-basico-ao-avancado/
 
+
 Participants:
 - Bruno Antunes da Silva
+- Rafael Siqueira
 - Rafael Teodoro
-- Mais um participante
+- Mias um participante
