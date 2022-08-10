@@ -7,3 +7,4 @@ Participants:
 - Bruno Antunes da Silva
 - Rafael Teodoro
 - Outro usuário
+- Mais um participante
