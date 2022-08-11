@@ -8,4 +8,4 @@ Participants:
 
 - Rafael Siqueira
 - Rafael Teodoro
-- Mais um participante
+- Mais um participante 
