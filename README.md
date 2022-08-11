@@ -7,3 +7,5 @@ Participants:
 - Bruno Antunes da Silva
 - Rafael Teodoro
 - Mais um participante
+- Julia Pereira de Andrade
+
