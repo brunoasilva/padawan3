@@ -8,3 +8,4 @@ Participants:
 - Marinez Cristina de Almeida
 - Rafael Teodoro
 - Mais um participante
+- Julia Pereira de Andrade
