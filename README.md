@@ -5,5 +5,8 @@ https://www.udemy.com/course/git-completo-do-basico-ao-avancado/
 
 Participants:
 - Bruno Antunes da Silva
+- Marinez Cristina de Almeida
 - Rafael Teodoro
 - Daniele Sousa
+- Mais um participante
+- Julia Pereira de Andrade
