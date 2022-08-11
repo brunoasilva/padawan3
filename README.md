@@ -8,4 +8,4 @@ Participants:
 - Bruno Antunes da Silva
 - Rafael Siqueira
 - Rafael Teodoro
-- Mias um participante
+- Mais um participante
